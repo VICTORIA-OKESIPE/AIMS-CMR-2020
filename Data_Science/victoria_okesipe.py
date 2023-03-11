@@ -1,6 +1,6 @@
 #VICTORIA OKESIPE
 #Programming in python.
-#Week 1 Homework
+#Week 1
 
 #----------------------------------------------------------------------------------------
 #Question 1:

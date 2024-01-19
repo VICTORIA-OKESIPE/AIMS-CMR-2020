@@ -1,3 +1,3 @@
-hhhh# AIMS-CMR-2020
+hhhhhhh# AIMS-CMR-2020
 ---
 This is to showcase coursework and mini-projects completed in AIMS-Cameroon as an individual, and also as a group.
